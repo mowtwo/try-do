@@ -1,7 +1,7 @@
 {
   "name": "try-do",
   "version": "1.0.0",
-  "description": "",
+  "description": "一个将try-catch包装成函数的库",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
@@ -12,7 +12,7 @@
     "try-catch"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "rollup": "^2.71.1",
     "rollup-plugin-ts": "^2.0.7",
