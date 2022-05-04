@@ -1,5 +1,5 @@
 {
-  "name": "try-do",
+  "name": "@mow/try-do",
   "version": "1.0.0",
   "description": "一个将try-catch包装成函数的库",
   "type": "module",
