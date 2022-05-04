@@ -1,0 +1,21 @@
+{
+  "name": "try-do",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "example": "node ./example/index.js"
+  },
+  "keywords": [
+    "promise",
+    "try-catch"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.71.1",
+    "rollup-plugin-ts": "^2.0.7",
+    "typescript": "^4.6.4"
+  }
+}
